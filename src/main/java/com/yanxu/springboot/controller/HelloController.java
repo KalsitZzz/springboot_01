@@ -1,11 +1,6 @@
 package com.yanxu.springboot.controller;
 
 //所有组件类，都应该存放在主启动类所在的包，或者子包下
-//cccc
-//bbbb
-//aaaa
-//Kalsit
-//hello
 import com.yanxu.springboot.properties.DataSourceProperties;
 import com.yanxu.springboot.properties.DataSourceProperties2;
 import com.yanxu.springboot.properties.JdbcProperties;
